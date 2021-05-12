@@ -1,0 +1,3 @@
+[submodule "makelib"]
+	path = lib/makelib
+	url = https://gitlab.com/f.lib/makelib.git
